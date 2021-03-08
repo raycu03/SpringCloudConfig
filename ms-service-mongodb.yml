@@ -3,4 +3,4 @@ spring:
     mongodb:
       uri: mongodb://18.206.46.95:27017/audit
 server:
-  port: 8081
+  port: 8082
